@@ -892,19 +892,19 @@ function HospitalERPArchitectureDiagram({ onOpenImage }: { onOpenImage?: (src: s
 
   const bizagiDiagrams = {
     o2c: {
-      src: '/diagrams/erp_image5.png',
+      src: './diagrams/erp_image5.png',
       title: 'Order-to-Cash (O2C): Patient Registration to Discharge Workflow',
       figure: 'Figure 4.1',
       desc: 'Bizagi Process Model showing clinical order generation, diagnostics, pharmacy dispensing, TPA pre-authorization, and billing clearance.'
     },
     p2p: {
-      src: '/diagrams/erp_image6.png',
+      src: './diagrams/erp_image6.png',
       title: 'Procure-to-Pay (P2P): Pharmacy Procure-to-Dispense Workflow',
       figure: 'Figure 4.2',
       desc: 'Bizagi Process Model showing stock reorder trigger, value-based PO approval matrix, GRN verification, and 3-way matching.'
     },
     modules: {
-      src: '/diagrams/erp_image1.png',
+      src: './diagrams/erp_image1.png',
       title: 'Connected Hospital ERP Architecture Ecosystem',
       figure: 'Figure 1.1',
       desc: 'Core architecture connecting Patient Master, EMR, Billing, Pharmacy Inventory, and Insurance/TPA Interfaces.'
@@ -1049,7 +1049,7 @@ function BPMNDischargeDiagram({ onOpenImage }: { onOpenImage?: (src: string, tit
 
         {/* Image Display */}
         <div 
-          onClick={() => onOpenImage && onOpenImage('/diagrams/bpmn_image1.png', 'Patient Discharge BPMN 2.0 Process Model', 'End-to-end 4-swimlane workflow model mapped in Bizagi Process Modeler.')}
+          onClick={() => onOpenImage && onOpenImage('./diagrams/bpmn_image1.png', 'Patient Discharge BPMN 2.0 Process Model', 'End-to-end 4-swimlane workflow model mapped in Bizagi Process Modeler.')}
           className="relative group rounded-2xl overflow-hidden border border-white/15 bg-white/[0.02] cursor-pointer hover:border-magenta transition-all duration-300 mb-4"
         >
           <div className="absolute top-3 right-3 z-20 flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-black/80 border border-white/20 text-white text-xs font-mono group-hover:bg-magenta group-hover:border-magenta transition-all shadow-lg backdrop-blur-md">
@@ -1059,7 +1059,7 @@ function BPMNDischargeDiagram({ onOpenImage }: { onOpenImage?: (src: string, tit
 
           <div className="p-4 flex items-center justify-center min-h-[260px] md:min-h-[340px] bg-slate-950/90">
             <img 
-              src="/diagrams/bpmn_image1.png" 
+              src="./diagrams/bpmn_image1.png" 
               alt="Bizagi BPMN 2.0 Patient Discharge Model" 
               className="max-h-[320px] w-auto object-contain transition-transform duration-500 group-hover:scale-[1.02]"
             />
