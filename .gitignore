@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+portfolio/node_modules/
+
+# Production Build
+dist/
+portfolio/dist/
+
+# Logs & System
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+
+# Local Environment
+.env
+.env.local

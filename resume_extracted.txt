@@ -1,0 +1,21 @@
+=== PARAGRAPHS ===
+0: PROFILE SUMMARY
+1: A results-driven management professional skilled in process optimization and cross-functional leadership with proven ability in translating strategy into structured plans and delivering actionable outcomes.
+3: PROFESSIONAL EXPERIENCE
+4: Associate 2 Reconciliations, State Street
+5: Jul 2022 - Jun 2025
+6: Executed reconciliations across cash, collateral, FX forwards, securities lending & holdings with >98% accuracy, leading weekly break calls with senior management to cut unresolved discrepancies by 20% & strengthen risk controls
+7: Streamlined client onboarding for 5+ clients by extracting, mapping & validating large financial datasets for seamless reporting
+8: Enhanced process efficiency via automation (Smart Stream TLM, Excel macros), cutting manual errors by ~40% & exception resolution time by ~25%
+10: INTERNSHIP
+11: Operations Intern, Quick Clean Laundry Solutions                         Apr - June 2026,
+12: Conducted field audits & data analysis across healthcare linen inventory workflows, uncovering ₹3.13 L worth of missing linen in a quarter, exposing gaps in inventory controls & governance
+14: Executed 8 analytical assessments spanning PAR optimization, variance tracking, procurement planning & discard analysis, quantifying stock deficits up to 39% below target to drive procurement recommendations
+15: Designed & built an Inventory Tracking Portal & a Linen Lifecycle Management Platform, centralizing visibility, standardizing workflows & strengthening traceability across operations
+17: ACADEMIC PROJECTS
+18: Analysis of HPCL (2025) using horizontal and ratio analysis to assess profitability, liquidity, leverage, and overall financial health for investment decisions
+20: QUALIFICATIONS
+
+=== TABLES ===
+-- TABLE 1 --
+KEY SKILLS DATA ANALYSIS POWER BI PROBLEM SOLVING   MS OFFICE SUITE STAKEHOLDER MANAGEMENT  CERTIFICATES Introduction to Microsoft Dynamics 365| Microsoft | 2026 Generative AI: Business Transformation and Career Growth | IBM | 2026  AWARDS & ACHIEVEMENTS Winner of 2 National Case Competitions | 2025- 26 National Finalist in 3 National Case Competitions, including MDI Gurgaon, IIM Kashipur, and SIBM Pune Proficiency Award at State Street | 2024 Awarded National level 7th rank | MEC Scholarship | 2012  POSITIONS OF RESPONSIBILITY Vice-President of Analytics club | Great Lakes Institute of Management, Gurgaon | 2026-27 Volunteered in | CREST 2025 | flagship Annual Management event  EXTRA-CURRICULARS Volunteered in Winter Business Conference 2025 Secured 1st position in Business Quiz | intra-commerce fest | 2022 Secured 1st position in Mega dance | intra-fest competition | 2020
