@@ -2,6 +2,7 @@ import React, { useRef } from 'react';
 import { motion, useScroll, useTransform } from 'framer-motion';
 import { Canvas, useFrame } from '@react-three/fiber';
 import { OrbitControls, Float, Sphere, MeshDistortMaterial } from '@react-three/drei';
+import profilePhoto from '../assets/profile.jpg';
 
 function Scene() {
   const sphereRef = useRef<any>(null);
@@ -121,12 +122,9 @@ export default function Hero() {
             {/* Transparent Depth Layer / Photo */}
             <div className="relative z-10 w-52 h-52 md:w-64 md:h-64 rounded-full overflow-hidden border-2 border-white/30 shadow-[0_0_40px_rgba(0,229,255,0.4)] bg-[#0B0F19]">
               <img 
-                src="/profile.jpg" 
-                alt="Profile" 
-                className="w-full h-full object-cover transition-transform duration-700 hover:scale-105"
-                onError={(e: any) => {
-                  e.target.style.display = 'none';
-                }}
+                src={profilePhoto} 
+                alt="Krupa Raju" 
+                className="w-full h-full object-cover object-top transition-transform duration-700 hover:scale-105"
               />
             </div>
 
